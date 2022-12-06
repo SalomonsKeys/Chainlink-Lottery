@@ -1,0 +1,20 @@
+
+# vscode
+.vscode
+
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+hardhat.config.js
+cache
+artifacts
+helper-hardhat-config.js 
+test
+scripts
+
